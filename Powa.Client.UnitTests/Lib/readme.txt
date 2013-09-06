@@ -1,0 +1,1 @@
+Moq does not officially support WP so it cannot be added/ managed using NuGet.
